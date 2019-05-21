@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
   
   spec.name         = "WLBaseResult"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A Lib For vc."
   spec.description  = <<-DESC
   A Lib For vc.

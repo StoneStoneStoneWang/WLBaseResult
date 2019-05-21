@@ -8,7 +8,7 @@
 
 import Foundation
 import ObjectMapper
-public enum WLUserResult {
+public enum WLBaseResult {
     
     case begin(_ msg: String)
     
