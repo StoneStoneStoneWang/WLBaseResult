@@ -3,10 +3,10 @@
 Pod::Spec.new do |spec|
   
   spec.name         = "WLBaseResult"
-  spec.version      = "0.0.2"
-  spec.summary      = "A Lib For vc."
+  spec.version      = "0.0.3"
+  spec.summary      = "A Lib For result."
   spec.description  = <<-DESC
-  A Lib For vc.
+  A Lib For result.
   DESC
   
   spec.homepage     = "https://github.com/StoneStoneStoneWang/WLBaseResult"
